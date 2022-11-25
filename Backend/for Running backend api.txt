@@ -1,0 +1,40 @@
+
+
+
+first install my sql shell
+
+in given files table.sql you can  find 
+
+
+first you need to create a table 
+like user 
+product 
+category
+bill
+must be remember you need to follow the quries which is written in table .sql
+
+
+after creating table and inserting values successfully   
+
+you must go backend api folder open the api path in vs code terminal 
+
+
+
+type just only   npm start   
+
+when your backend is connection successfull displayed in your terminal means your back end is working fine 
+
+
+for front end  ng serve only 
+
+
+
+must be installed nodemon on your terminal for avoid of repeated entering hosting process
+
+
+any issue feel free to contact us .
+
+
+first row must be insert for admin role 
+
+Cafemanagement system btechday watch on youtube face any problem
